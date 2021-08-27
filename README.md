@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibnAbdulatif
+- 👋 Hi, I’m Alisher ibn Abdulatif
 - 👀 I’m interested in coding & football
 - 🌱 I’m currently learning NodeJs
 - 📫 How to reach me https://ibnabdulatif.netlify.app
